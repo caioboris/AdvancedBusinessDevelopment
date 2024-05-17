@@ -1,0 +1,14 @@
+C:\Users\Caio Boris\FIAP\2TDSR\Advanced Bussiness Development With .Net\ABD.Checkpoint1\bin\Debug\net8.0\ABD.Checkpoint1.exe
+C:\Users\Caio Boris\FIAP\2TDSR\Advanced Bussiness Development With .Net\ABD.Checkpoint1\bin\Debug\net8.0\ABD.Checkpoint1.deps.json
+C:\Users\Caio Boris\FIAP\2TDSR\Advanced Bussiness Development With .Net\ABD.Checkpoint1\bin\Debug\net8.0\ABD.Checkpoint1.runtimeconfig.json
+C:\Users\Caio Boris\FIAP\2TDSR\Advanced Bussiness Development With .Net\ABD.Checkpoint1\bin\Debug\net8.0\ABD.Checkpoint1.dll
+C:\Users\Caio Boris\FIAP\2TDSR\Advanced Bussiness Development With .Net\ABD.Checkpoint1\bin\Debug\net8.0\ABD.Checkpoint1.pdb
+C:\Users\Caio Boris\FIAP\2TDSR\Advanced Bussiness Development With .Net\ABD.Checkpoint1\obj\Debug\net8.0\ABD.Checkpoint1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio Boris\FIAP\2TDSR\Advanced Bussiness Development With .Net\ABD.Checkpoint1\obj\Debug\net8.0\ABD.Checkpoint1.AssemblyInfoInputs.cache
+C:\Users\Caio Boris\FIAP\2TDSR\Advanced Bussiness Development With .Net\ABD.Checkpoint1\obj\Debug\net8.0\ABD.Checkpoint1.AssemblyInfo.cs
+C:\Users\Caio Boris\FIAP\2TDSR\Advanced Bussiness Development With .Net\ABD.Checkpoint1\obj\Debug\net8.0\ABD.Checkpoint1.csproj.CoreCompileInputs.cache
+C:\Users\Caio Boris\FIAP\2TDSR\Advanced Bussiness Development With .Net\ABD.Checkpoint1\obj\Debug\net8.0\ABD.Checkpoint1.dll
+C:\Users\Caio Boris\FIAP\2TDSR\Advanced Bussiness Development With .Net\ABD.Checkpoint1\obj\Debug\net8.0\refint\ABD.Checkpoint1.dll
+C:\Users\Caio Boris\FIAP\2TDSR\Advanced Bussiness Development With .Net\ABD.Checkpoint1\obj\Debug\net8.0\ABD.Checkpoint1.pdb
+C:\Users\Caio Boris\FIAP\2TDSR\Advanced Bussiness Development With .Net\ABD.Checkpoint1\obj\Debug\net8.0\ABD.Checkpoint1.genruntimeconfig.cache
+C:\Users\Caio Boris\FIAP\2TDSR\Advanced Bussiness Development With .Net\ABD.Checkpoint1\obj\Debug\net8.0\ref\ABD.Checkpoint1.dll
