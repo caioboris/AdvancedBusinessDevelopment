@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Caio Boris\\FIAP\\2TDSR\\Advanced Bussiness Development With .Net\\AgroPlus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B258D4FF-CDB2-4D04-8A3C-F693CE0CD0A7}|AgroPlus\\AgroPlus.csproj|c:\\users\\caio boris\\fiap\\2tdsr\\advanced bussiness development with .net\\agroplus\\agroplus\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B258D4FF-CDB2-4D04-8A3C-F693CE0CD0A7}|AgroPlus\\AgroPlus.csproj|solutionrelative:agroplus\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B258D4FF-CDB2-4D04-8A3C-F693CE0CD0A7}|AgroPlus\\AgroPlus.csproj|c:\\users\\caio boris\\fiap\\2tdsr\\advanced bussiness development with .net\\agroplus\\agroplus\\models\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B258D4FF-CDB2-4D04-8A3C-F693CE0CD0A7}|AgroPlus\\AgroPlus.csproj|solutionrelative:agroplus\\models\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B258D4FF-CDB2-4D04-8A3C-F693CE0CD0A7}|AgroPlus\\AgroPlus.csproj|c:\\users\\caio boris\\fiap\\2tdsr\\advanced bussiness development with .net\\agroplus\\agroplus\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B258D4FF-CDB2-4D04-8A3C-F693CE0CD0A7}|AgroPlus\\AgroPlus.csproj|solutionrelative:agroplus\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B258D4FF-CDB2-4D04-8A3C-F693CE0CD0A7}|AgroPlus\\AgroPlus.csproj|c:\\users\\caio boris\\fiap\\2tdsr\\advanced bussiness development with .net\\agroplus\\agroplus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B258D4FF-CDB2-4D04-8A3C-F693CE0CD0A7}|AgroPlus\\AgroPlus.csproj|solutionrelative:agroplus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B258D4FF-CDB2-4D04-8A3C-F693CE0CD0A7}|AgroPlus\\AgroPlus.csproj|c:\\users\\caio boris\\fiap\\2tdsr\\advanced bussiness development with .net\\agroplus\\agroplus\\controllers\\historicovendascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B258D4FF-CDB2-4D04-8A3C-F693CE0CD0A7}|AgroPlus\\AgroPlus.csproj|solutionrelative:agroplus\\controllers\\historicovendascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B258D4FF-CDB2-4D04-8A3C-F693CE0CD0A7}|AgroPlus\\AgroPlus.csproj|c:\\users\\caio boris\\fiap\\2tdsr\\advanced bussiness development with .net\\agroplus\\agroplus\\controllers\\inforegiaoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B258D4FF-CDB2-4D04-8A3C-F693CE0CD0A7}|AgroPlus\\AgroPlus.csproj|solutionrelative:agroplus\\controllers\\inforegiaoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B258D4FF-CDB2-4D04-8A3C-F693CE0CD0A7}|AgroPlus\\AgroPlus.csproj|c:\\users\\caio boris\\fiap\\2tdsr\\advanced bussiness development with .net\\agroplus\\agroplus\\models\\historicovenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B258D4FF-CDB2-4D04-8A3C-F693CE0CD0A7}|AgroPlus\\AgroPlus.csproj|solutionrelative:agroplus\\models\\historicovenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B258D4FF-CDB2-4D04-8A3C-F693CE0CD0A7}|AgroPlus\\AgroPlus.csproj|c:\\users\\caio boris\\fiap\\2tdsr\\advanced bussiness development with .net\\agroplus\\agroplus\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B258D4FF-CDB2-4D04-8A3C-F693CE0CD0A7}|AgroPlus\\AgroPlus.csproj|solutionrelative:agroplus\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B258D4FF-CDB2-4D04-8A3C-F693CE0CD0A7}|AgroPlus\\AgroPlus.csproj|c:\\users\\caio boris\\fiap\\2tdsr\\advanced bussiness development with .net\\agroplus\\agroplus\\models\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B258D4FF-CDB2-4D04-8A3C-F693CE0CD0A7}|AgroPlus\\AgroPlus.csproj|solutionrelative:agroplus\\models\\contexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B258D4FF-CDB2-4D04-8A3C-F693CE0CD0A7}|AgroPlus\\AgroPlus.csproj|c:\\users\\caio boris\\fiap\\2tdsr\\advanced bussiness development with .net\\agroplus\\agroplus\\models\\tipocultivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B258D4FF-CDB2-4D04-8A3C-F693CE0CD0A7}|AgroPlus\\AgroPlus.csproj|solutionrelative:agroplus\\models\\tipocultivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B258D4FF-CDB2-4D04-8A3C-F693CE0CD0A7}|AgroPlus\\AgroPlus.csproj|c:\\users\\caio boris\\fiap\\2tdsr\\advanced bussiness development with .net\\agroplus\\agroplus\\models\\regiao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B258D4FF-CDB2-4D04-8A3C-F693CE0CD0A7}|AgroPlus\\AgroPlus.csproj|solutionrelative:agroplus\\models\\regiao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B258D4FF-CDB2-4D04-8A3C-F693CE0CD0A7}|AgroPlus\\AgroPlus.csproj|c:\\users\\caio boris\\fiap\\2tdsr\\advanced bussiness development with .net\\agroplus\\agroplus\\models\\inforegiao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B258D4FF-CDB2-4D04-8A3C-F693CE0CD0A7}|AgroPlus\\AgroPlus.csproj|solutionrelative:agroplus\\models\\inforegiao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B258D4FF-CDB2-4D04-8A3C-F693CE0CD0A7}|AgroPlus\\AgroPlus.csproj|c:\\users\\caio boris\\fiap\\2tdsr\\advanced bussiness development with .net\\agroplus\\agroplus\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B258D4FF-CDB2-4D04-8A3C-F693CE0CD0A7}|AgroPlus\\AgroPlus.csproj|solutionrelative:agroplus\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InfoRegiaosController.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Boris\\FIAP\\2TDSR\\Advanced Bussiness Development With .Net\\AgroPlus\\AgroPlus\\Controllers\\InfoRegiaosController.cs",
+              "RelativeDocumentMoniker": "AgroPlus\\Controllers\\InfoRegiaosController.cs",
+              "ToolTip": "C:\\Users\\Caio Boris\\FIAP\\2TDSR\\Advanced Bussiness Development With .Net\\AgroPlus\\AgroPlus\\Controllers\\InfoRegiaosController.cs",
+              "RelativeToolTip": "AgroPlus\\Controllers\\InfoRegiaosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T00:04:03.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HistoricoVendasController.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Boris\\FIAP\\2TDSR\\Advanced Bussiness Development With .Net\\AgroPlus\\AgroPlus\\Controllers\\HistoricoVendasController.cs",
+              "RelativeDocumentMoniker": "AgroPlus\\Controllers\\HistoricoVendasController.cs",
+              "ToolTip": "C:\\Users\\Caio Boris\\FIAP\\2TDSR\\Advanced Bussiness Development With .Net\\AgroPlus\\AgroPlus\\Controllers\\HistoricoVendasController.cs",
+              "RelativeToolTip": "AgroPlus\\Controllers\\HistoricoVendasController.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAuwAoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T00:01:00.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Boris\\FIAP\\2TDSR\\Advanced Bussiness Development With .Net\\AgroPlus\\AgroPlus\\Program.cs",
+              "RelativeDocumentMoniker": "AgroPlus\\Program.cs",
+              "ToolTip": "C:\\Users\\Caio Boris\\FIAP\\2TDSR\\Advanced Bussiness Development With .Net\\AgroPlus\\AgroPlus\\Program.cs",
+              "RelativeToolTip": "AgroPlus\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:41:58.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Boris\\FIAP\\2TDSR\\Advanced Bussiness Development With .Net\\AgroPlus\\AgroPlus\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AgroPlus\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Caio Boris\\FIAP\\2TDSR\\Advanced Bussiness Development With .Net\\AgroPlus\\AgroPlus\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AgroPlus\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:41:54.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vendedor.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Boris\\FIAP\\2TDSR\\Advanced Bussiness Development With .Net\\AgroPlus\\AgroPlus\\Models\\Vendedor.cs",
+              "RelativeDocumentMoniker": "AgroPlus\\Models\\Vendedor.cs",
+              "ToolTip": "C:\\Users\\Caio Boris\\FIAP\\2TDSR\\Advanced Bussiness Development With .Net\\AgroPlus\\AgroPlus\\Models\\Vendedor.cs",
+              "RelativeToolTip": "AgroPlus\\Models\\Vendedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:40:59.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Boris\\FIAP\\2TDSR\\Advanced Bussiness Development With .Net\\AgroPlus\\AgroPlus\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "AgroPlus\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Caio Boris\\FIAP\\2TDSR\\Advanced Bussiness Development With .Net\\AgroPlus\\AgroPlus\\Models\\Usuario.cs",
+              "RelativeToolTip": "AgroPlus\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:40:24.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TipoCultivo.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Boris\\FIAP\\2TDSR\\Advanced Bussiness Development With .Net\\AgroPlus\\AgroPlus\\Models\\TipoCultivo.cs",
+              "RelativeDocumentMoniker": "AgroPlus\\Models\\TipoCultivo.cs",
+              "ToolTip": "C:\\Users\\Caio Boris\\FIAP\\2TDSR\\Advanced Bussiness Development With .Net\\AgroPlus\\AgroPlus\\Models\\TipoCultivo.cs",
+              "RelativeToolTip": "AgroPlus\\Models\\TipoCultivo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:39:56.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Regiao.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Boris\\FIAP\\2TDSR\\Advanced Bussiness Development With .Net\\AgroPlus\\AgroPlus\\Models\\Regiao.cs",
+              "RelativeDocumentMoniker": "AgroPlus\\Models\\Regiao.cs",
+              "ToolTip": "C:\\Users\\Caio Boris\\FIAP\\2TDSR\\Advanced Bussiness Development With .Net\\AgroPlus\\AgroPlus\\Models\\Regiao.cs",
+              "RelativeToolTip": "AgroPlus\\Models\\Regiao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:39:07.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InfoRegiao.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Boris\\FIAP\\2TDSR\\Advanced Bussiness Development With .Net\\AgroPlus\\AgroPlus\\Models\\InfoRegiao.cs",
+              "RelativeDocumentMoniker": "AgroPlus\\Models\\InfoRegiao.cs",
+              "ToolTip": "C:\\Users\\Caio Boris\\FIAP\\2TDSR\\Advanced Bussiness Development With .Net\\AgroPlus\\AgroPlus\\Models\\InfoRegiao.cs",
+              "RelativeToolTip": "AgroPlus\\Models\\InfoRegiao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:38:30.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HistoricoVenda.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Boris\\FIAP\\2TDSR\\Advanced Bussiness Development With .Net\\AgroPlus\\AgroPlus\\Models\\HistoricoVenda.cs",
+              "RelativeDocumentMoniker": "AgroPlus\\Models\\HistoricoVenda.cs",
+              "ToolTip": "C:\\Users\\Caio Boris\\FIAP\\2TDSR\\Advanced Bussiness Development With .Net\\AgroPlus\\AgroPlus\\Models\\HistoricoVenda.cs",
+              "RelativeToolTip": "AgroPlus\\Models\\HistoricoVenda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:36:03.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Boris\\FIAP\\2TDSR\\Advanced Bussiness Development With .Net\\AgroPlus\\AgroPlus\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "AgroPlus\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Caio Boris\\FIAP\\2TDSR\\Advanced Bussiness Development With .Net\\AgroPlus\\AgroPlus\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "AgroPlus\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:36:02.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Contexto.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Boris\\FIAP\\2TDSR\\Advanced Bussiness Development With .Net\\AgroPlus\\AgroPlus\\Models\\Contexto.cs",
+              "RelativeDocumentMoniker": "AgroPlus\\Models\\Contexto.cs",
+              "ToolTip": "C:\\Users\\Caio Boris\\FIAP\\2TDSR\\Advanced Bussiness Development With .Net\\AgroPlus\\AgroPlus\\Models\\Contexto.cs",
+              "RelativeToolTip": "AgroPlus\\Models\\Contexto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:35:51.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Boris\\FIAP\\2TDSR\\Advanced Bussiness Development With .Net\\AgroPlus\\AgroPlus\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "AgroPlus\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Caio Boris\\FIAP\\2TDSR\\Advanced Bussiness Development With .Net\\AgroPlus\\AgroPlus\\Models\\Cliente.cs",
+              "RelativeToolTip": "AgroPlus\\Models\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:35:20.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
